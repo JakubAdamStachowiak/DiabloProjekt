@@ -6,7 +6,7 @@ Ua = 0.1125  # kW/m^2C
 C = 4.187   # kj/kgC
 P = 1.087   # kg/m^3
 V = 0.063   # m^3
-Gc =
+
 
 app = Dash(__name__)
 
